@@ -17,19 +17,6 @@
 - 🌱 Currently diving deeper into [Specific Framework/Tech like React.js or Vue.js] and exploring new methods for State Management.
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLSeak&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="KLSeak's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=KLSeak&theme=radical&hide_border=true&cache_seconds=86400" alt="KLSeak's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KLSeak&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Leangseak Kong's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KLSeak&theme=radical&radius=10" alt="KLSeak's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
