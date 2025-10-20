@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- 🌱 Currently diving deeper into [Specific Framework/Tech like React.js or Vue.js] and exploring new methods for State Management.
+- 🌱 Currently diving deeper into Specific Framework Tech like React.js or Vue.js and exploring new methods for State Management.
 
 
 ## 🛠️ Languages & Tools
