@@ -45,4 +45,8 @@
 ## 🔗 Connect with Me
 <p align="left"> <a href="www.linkedin.com/in/kong-leangseak-912a62388" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Leangseak Kong's LinkedIn"/></a> <a href="mailto:leangseakkong@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Leangseak Kong's Email"/></a> <a href="https://kuzxa-portfolio.pages.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/1086505166" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KLSeak&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="KLSeak's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=KLSeak&theme=radical&hide_border=true&cache_seconds=86400" alt="KLSeak's GitHub Streak" width="49%" />
+</p>
 
