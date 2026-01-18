@@ -2,7 +2,7 @@
 
 ### A passionate Frontend developer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KLSeak&label=Profile views&color=0e75b6&style=flat" alt="KLSeak" /> </p>
+
 
 - 📫 How to reach me **leangseakkong@gmail.com**
 
