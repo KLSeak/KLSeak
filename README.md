@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **leangseakkong@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[[https://kuzxa-portfolio.pages.dev](https://kuzxa-portfolio.pages.dev](https://react-portfolio-1wy.pages.dev))**
+- 👨‍💻 All of my projects are available at **https://react-portfolio-1wy.pages.dev**
 
 - 📄 Know about my experiences **[https://docs.google.com/document/d/1fWtgNbqgCM5HCn-Z4XlXnStqNDM1DnP6/edit?usp=sharing&ouid=103129139587891088758&rtpof=true&sd=true](https://docs.google.com/document/d/1fWtgNbqgCM5HCn-Z4XlXnStqNDM1DnP6/edit?usp=sharing&ouid=103129139587891088758&rtpof=true&sd=true)**
 
