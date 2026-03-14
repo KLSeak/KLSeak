@@ -1,4 +1,4 @@
-# Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWw0NHMwOTNuY2N1NHNvNTVscWpkMmlqbmd3NXZyanhscXF6ZngzZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WhoNyvVjuB88HjDK0l/200.gif" height="30px" width="30px">, I'm Leangseak Kong
+# Hi <img src="https://i.redd.it/um5qvsxe0a571.gif" height="40px" width="40px">, I'm Leangseak Kong
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=KLSeak">
