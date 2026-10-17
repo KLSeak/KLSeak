@@ -1,10 +1,10 @@
 # Hi <img src="https://i.redd.it/um5qvsxe0a571.gif" height="40px" width="40px">, I'm Leangseak Kong
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=KLSeak">
     <img src="https://komarev.com/ghpvc/?username=KLSeak&label=Profile%20views&color=00FFFF&style=flat-square" alt="KLSeak's profile views" />
   </a>
-</p>
+</p> -->
 
 
 ### A passionate Frontend developer 
